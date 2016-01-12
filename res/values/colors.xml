@@ -45,7 +45,7 @@
 
     <!-- App icon color as default -->
     <color name="default_background">#9c27b0</color>
-    <color name="status_bar">#000000</color>
+    <color name="status_bar">#9c27b0</color>
 
     <color name="time_picker_gray">#212121</color>
 
